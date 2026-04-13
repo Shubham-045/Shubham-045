@@ -1,16 +1,20 @@
-## Hi there 👋
+# Hi, I'm Shubham 👋
 
-<!--
-**Shubham-045/Shubham-045** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Data Analyst with experience in SQL, Power BI, and data visualization.
 
-Here are some ideas to get you started:
+## 🔧 Skills
+- SQL
+- Power BI
+- Excel
+- Data Analysis
+- Python
+- Data Visualization
+- ETL
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 📊 Projects
+- Sales Dashboard Analysis
+- Customer Segmentation
+- Hospitality Dashboard
+
+## 📫 Connect with me
+- LinkedIn: www.linkedin.com/in/shubham-ghodake-062894234
